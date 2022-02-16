@@ -1,1 +1,3 @@
-# 75-
+# 75
+
+1.https://leetcode.com/problems/two-sum/
